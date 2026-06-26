@@ -136,7 +136,7 @@ body {
     font-size: 1rem;
   }
   .photo-block img {
-    max-height: 50vh;
+    max-height: 25vh;
   }
 
   .photo-block {
